@@ -1,0 +1,16 @@
+{
+  "name": "concurrently-dashboard",
+  "version": "0.0.1",
+  "description": "Run commands concurrently with terminal output in a dashboard",
+  "main": "index.js",
+  "author": "Alexander Heimbuch (npm@heimbu.ch)",
+  "license": "MIT",
+  "dependencies": {
+    "blessed": "0.1.81",
+    "blessed-xterm": "1.1.2",
+    "commander": "2.9.0"
+  },
+  "bin": {
+    "concurrently-dashboard": "./index.js"
+  }
+}
