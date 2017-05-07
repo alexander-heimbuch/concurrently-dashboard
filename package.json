@@ -1,6 +1,6 @@
 {
   "name": "concurrently-dashboard",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Run commands concurrently with terminal output in a dashboard",
   "main": "index.js",
   "author": "Alexander Heimbuch (npm@heimbu.ch)",
