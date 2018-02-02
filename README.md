@@ -1,5 +1,7 @@
 # concurrently-dashboard
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/alexander-heimbuch/concurrently-dashboard.svg)](https://greenkeeper.io/)
+
 Run your commands concurrently with seperated output in a CLI dashboard.
 
 ## Installation
