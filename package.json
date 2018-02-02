@@ -7,8 +7,8 @@
   "license": "MIT",
   "dependencies": {
     "blessed": "0.1.81",
-    "blessed-xterm": "1.1.2",
-    "commander": "2.9.0"
+    "blessed-xterm": "1.1.16",
+    "commander": "2.13.0"
   },
   "bin": {
     "concurrently-dashboard": "./index.js"
